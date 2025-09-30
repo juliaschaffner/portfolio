@@ -93,21 +93,12 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ## 📂 Repository Structure
 
-```
 In this folder, you'll find the following documents:
 
-**Data Used:**
-youtube_trending.csv
-tiktok_videos.csv
-
-**Coding:**
 Documentation (decoding virality.html
-
-**Reports**
-Final Report (decoding virality).pdf
+- All code written to produce findings and report
+Final Report (decoding virality).html
 Final Presentation (decoding virality).pdf
-
-```
 
 ---
 
