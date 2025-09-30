@@ -95,9 +95,11 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 In this folder, you'll find the following documents:
 
-Documentation (decoding virality.html
+Documentation (decoding virality).html
 - All code written to produce findings and report
+  
 Final Report (decoding virality).html
+
 Final Presentation (decoding virality).pdf
 
 ---
