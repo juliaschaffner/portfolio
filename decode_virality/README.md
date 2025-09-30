@@ -94,62 +94,21 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 ## 📂 Repository Structure
 
 ```
-├── data/
-│   ├── youtube_trending.csv
-│   ├── tiktok_videos.csv
-│
-├── notebooks/
-│   ├── analysis1_characteristics.ipynb
-│   ├── analysis2_interactions.ipynb
-│   ├── analysis3_time_of_virality.ipynb
-│   ├── analysis4_descriptions.ipynb
-│
-├── visuals/
-│   ├── youtube_heatmaps.png
-│   ├── tiktok_scatterplots.png
-│   ├── ratio_boxplots.png
-│
-├── report/
-│   ├── Decoding_Virality_Report.pdf
-│
-└── README.md
+In this folder, you'll find the following documents:
+
+**Data Used:**
+youtube_trending.csv
+tiktok_videos.csv
+
+**Coding:**
+Documentation (decoding virality.html
+
+**Reports**
+Final Report (decoding virality).pdf
+Final Presentation (decoding virality).pdf
+
 ```
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-
-   ```bash
-   git clone https://github.com/your-username/decoding-virality.git
-   cd decoding-virality
-   ```
-2. Install dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open Jupyter notebooks
-
-   ```bash
-   jupyter notebook
-   ```
-4. Explore the analyses in the `notebooks/` folder.
-
----
-
-## 📌 Future Work
-
-* Extend analysis to Twitter/X or Instagram Reels for broader comparisons.
-* Incorporate NLP techniques for deeper semantic analysis of descriptions.
-* Apply predictive modeling (e.g., regression, random forest) to forecast virality.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
