@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project investigates what makes videos go viral on two of today’s largest social media platforms—YouTube and TikTok. We explore engagement patterns, time-to-virality, and the influence of descriptions/hashtags, with the goal of uncovering platform-specific insights that can guide content creators and digital marketers.
 
@@ -14,7 +14,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 🎯 Research Questions
+## Research Questions
 
 1. **Characteristics of Virality**
 
@@ -38,7 +38,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 * **YouTube Trending Video Dataset** (Kaggle)
 
@@ -52,7 +52,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 🛠️ Methods
+## Methods
 
 * **Data Cleaning:** Removed rows with missing values in non-numeric fields (descriptions, songs).
 * **Feature Engineering:**
@@ -64,7 +64,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 * **YouTube:** Likes are the strongest predictor of views.
 * **TikTok:** Comments are more influential than likes in driving views.
@@ -76,7 +76,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 💡 Recommendations for Stakeholders
+## Recommendations for Stakeholders
 
 * **Content Creators:**
 
@@ -91,7 +91,7 @@ Our analysis uses datasets from **Kaggle (YouTube)** and **GitHub (TikTok)**, ap
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 In this folder, you'll find the following documents:
 
