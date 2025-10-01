@@ -57,6 +57,7 @@ These models generally improved predictive performance compared to logistic regr
 - `LightGBM.ipynb` – LightGBM model  
 - `Random Forest (c).ipynb` – Random Forest model  
 
-## 👩‍💻 Author  
-- **Julia Schaffner**  
+## 👩‍💻 Authors
+- **Julia Schaffner**
+- **Varun Popli**
 
