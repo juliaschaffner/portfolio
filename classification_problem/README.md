@@ -38,10 +38,10 @@ Key preparation steps included:
 
 ## 🚀 Advanced Models  
 In a subsequent academic quarter, I extended this project using more sophisticated classifiers to improve accuracy and robustness:  
-- **KNN** (`ClassificationCodeKNN.ipynb`)  
-- **Random Forest** (`Random Forest.ipynb`)  
-- **XGBoost** (`ClassificationCodeXGBoost.ipynb`)  
-- **LightGBM** (`LightGBM.ipynb`)  
+- **KNN**
+- **Random Forest**
+- **XGBoost**  
+- **LightGBM**
 
 These models generally improved predictive performance compared to logistic regression, especially in handling nonlinearities and correlated predictors.  
 
