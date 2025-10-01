@@ -51,11 +51,11 @@ These models generally improved predictive performance compared to logistic regr
 - More advanced ensemble models (Random Forest, XGBoost, LightGBM) outperformed logistic regression in predictive accuracy.  
 
 ## 📂 Files  
-- `ClassificationCode.ipynb` – logistic regression baseline model  
-- `ClassificationCodeKNN.ipynb`, `KNNClassificationCode.ipynb` – KNN models  
-- `ClassificationCodeXGBoost.ipynb` – XGBoost model  
-- `LightGBM.ipynb` – LightGBM model  
-- `Random Forest (c).ipynb` – Random Forest model  
+- `Classification Quarter 1 Final Report.html` – logistic regression baseline model and report  
+- `KNNClassificationCode.ipynb` – KNN model
+- `XGBoostClassificationCode.ipynb` – XGBoost model  
+- `LightGBMClassificationCode.ipynb` – LightGBM model  
+- `RandomForestClassificationCode.ipynb` – Random Forest model
 
 ## 👩‍💻 Authors
 - **Julia Schaffner**
