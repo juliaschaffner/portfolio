@@ -66,3 +66,4 @@ bptest(model2)
 # Testing for Normality
 # Shapiro-Wilk test
 shapiro.test(residuals(model2))
+
