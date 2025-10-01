@@ -33,11 +33,20 @@ This project predicts Airbnb listing prices using a regression model with extens
 - Significant predictors: `accommodates`, `beds`, `bathrooms`, review scores, geographic features, and interactions with `is_private`, `is_shared`, and `fancy` neighborhoods.
 - Captured nonlinearities and complex interactions, providing robust price predictions.
 
+## Advanced Models  
+In a subsequent academic quarter, I extended this project using more sophisticated classifiers to improve accuracy and robustness:  
+- **KNN**
+- **Random Forest**
+- **XGBoost**  
+- **LightGBM**
+- **Ensembles**
+
 ## 5) Files
-- `RegressionCodeEnsembles.ipynb` – Ensemble modeling workflow
-- `KNN Final Model.ipynb` – K-Nearest Neighbors model
-- `Random Forest Model.ipynb` – Random Forest implementation
-- `XGBoost Model.ipynb` – XGBoost implementation
-- `LightGBM Copy.ipynb` – LightGBM model
-- `prediction_problem_submission.csv` – Final predictions for test set
+- `Regression Quarter 1 Final Report.html` – First regression model and final report
+- `KNNRegressionCode.ipynb` – K-Nearest Neighbors model
+- `RandomForestRegressionCode.ipynb` – Random Forest implementation
+- `XGBoostRegressionCode.ipynb` – XGBoost implementation
+- `LightGBMRegressionCode.ipynb` – LightGBM model
+- `EnsembleRegressionCode.ipynb` – Ensemble model
+
 
